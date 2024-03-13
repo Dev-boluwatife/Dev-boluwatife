@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python, Web3 development, Blockchain Development and so on..
 - 💞️ I’m looking to collaborate on Various kind of Project
 - 📫 How to reach me ayandaboluwatife6@gmail.com, +2349164859994
-- 😄 Hubbies: Sport, Play Football, Watch Football and BasketBall
+- 😄 Hubbies: Coding, Sport, Play Football, Watch Football and BasketBall
+- 💻 Projects: https://tulupay.com, https://gateway.tulupay.com, https://switch.tulupay.com, voucherpay.online
 
 <!---
 Dev-boluwatife/Dev-boluwatife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
